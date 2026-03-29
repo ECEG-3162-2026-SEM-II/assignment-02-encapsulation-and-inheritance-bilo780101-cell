@@ -1,3 +1,4 @@
+package com.jju;
 public class BankAccount {
     private String accountHolder;
     protected double balance;
