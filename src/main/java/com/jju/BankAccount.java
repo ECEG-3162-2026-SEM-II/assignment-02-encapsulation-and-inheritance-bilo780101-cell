@@ -31,4 +31,8 @@ public class BankAccount {
     public double getBalance() {
         return balance;
     }
+
+    public String getAccountHolder() {
+        return accountHolder;
+    }
 }
